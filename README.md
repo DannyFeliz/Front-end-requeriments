@@ -1,10 +1,10 @@
 ## This is what you need to know to start working as a Frontend Developer in MCTekk
 
-##### Legend
+#### Legend
 * ✓ - Important
 * ☺ - Nice to have
 
-#### Resources
+#### Requeriments and resources
 - HTML5 ✓
 - CSS3 ✓
 - Javscript (ES5 & ES6) ✓ - [ES2015 Crash Course](https://laracasts.com/series/es6-cliffsnotes)
