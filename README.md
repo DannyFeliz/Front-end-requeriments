@@ -9,6 +9,7 @@
 - CSS3 ✓
 - Javscript (ES5 & ES6) ✓ - [ES2015 Crash Course](https://laracasts.com/series/es6-cliffsnotes)
 - REST ✓ - [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+- Ajax, Vue-resource or Axios ✓ (We recommend Axios) - [Axios](https://github.com/mzabriskie/axios)
 - NPM ☺ - [Getting started](https://docs.npmjs.com/getting-started/what-is-npm#)
 - Vuejs ✓
     - Videos
