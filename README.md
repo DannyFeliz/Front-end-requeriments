@@ -11,7 +11,7 @@
 - NPM ☺ - [Getting started](https://docs.npmjs.com/getting-started/what-is-npm#)
 - REST ✓ - [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 - Experience consuming APIs with any library such as $.ajax, vue-resource or axios ✓ (We recommend axios) - [Axios](https://github.com/mzabriskie/axios)
-- Vuejs ✓
+- Vuejs ☺
     - Videos
         * [Vue 1 step by step](https://laracasts.com/series/learning-vue-step-by-step)
         * [Vue 2 step by step](https://laracasts.com/series/learn-vue-2-step-by-step)
