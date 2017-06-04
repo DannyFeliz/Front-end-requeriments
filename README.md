@@ -7,10 +7,10 @@
 #### Requeriments and resources
 - HTML5 ✓
 - CSS3 ✓
-- Javscript (ES5 & ES6) ✓ - [ES2015 Crash Course](https://laracasts.com/series/es6-cliffsnotes)
+- Javscript ES5 ✓ - ES6 ☺ - [ES2015 Crash Course](https://laracasts.com/series/es6-cliffsnotes)
 - NPM ☺ - [Getting started](https://docs.npmjs.com/getting-started/what-is-npm#)
 - REST ✓ - [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-- Experience consuming APIs with any library such as $.ajax, vue-resource or axios ✓ (We recommend axios) - [Axios](https://github.com/mzabriskie/axios)
+- Experience consuming APIs with any library such as $.ajax, vue-resource or axios ✓ (We use axios) - [Axios](https://github.com/mzabriskie/axios)
 - Vuejs ☺
     - Videos
         * [Vue 1 step by step](https://laracasts.com/series/learning-vue-step-by-step)
@@ -23,4 +23,4 @@
         * [Vue-Router](https://github.com/vuejs/vue-router) 
         * [Awesome-vue](https://github.com/vuejs/awesome-vue)
 - Webpack ☺ - [Webpack for Everyone](https://laracasts.com/series/webpack-for-everyone) - [Getting started with Webpack](https://webpack.github.io/docs/tutorials/getting-started/)
-- Bash ☺ - [Bash Guide](https://github.com/Idnan/bash-guide)
+- Basic Linux commands ☺ - [Bash Guide](https://github.com/Idnan/bash-guide)
