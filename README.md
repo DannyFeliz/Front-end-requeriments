@@ -1,7 +1,7 @@
 ## This is what you need to know to start working as a Frontend Developer in MCTekk
 
 #### Legend
-* ✓ - Important
+* ✓ - Mandatory
 * ☺ - Nice to have
 
 #### Requeriments and resources
