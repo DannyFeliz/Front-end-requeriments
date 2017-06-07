@@ -7,6 +7,7 @@
 #### Requeriments and resources
 - HTML5 ✓
 - CSS3 ✓
+- Experience using a HTML/CSS framework such a Boostrap, Foundation, Bulma ☺ (We use Bootstrap)
 - Javscript ES5 ✓ - ES6 ☺ - [ES2015 Crash Course](https://laracasts.com/series/es6-cliffsnotes)
 - NPM ☺ - [Getting started](https://docs.npmjs.com/getting-started/what-is-npm#)
 - REST ✓ - [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
